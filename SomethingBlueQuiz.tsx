@@ -3892,7 +3892,7 @@ function SummaryView({
               A confirmation summary has been sent to your email address.
             </p>
             <a
-              href="https://www.somethingbluetravel.com/book-now"
+              href="https://www.somethingbluetravel.com/contact"
               style={{
                 display: "inline-block",
                 background: B.gold,
